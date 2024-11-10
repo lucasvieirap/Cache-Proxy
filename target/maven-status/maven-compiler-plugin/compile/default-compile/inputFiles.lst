@@ -1,0 +1,7 @@
+/home/vieira/Documents/Dev/projects/cache-server-java/src/main/java/com/vieira/cache_server/CacheServerApplication.java
+/home/vieira/Documents/Dev/projects/cache-server-java/src/main/java/com/vieira/cache_server/controller/GetCache.java
+/home/vieira/Documents/Dev/projects/cache-server-java/src/main/java/com/vieira/cache_server/domain/Cache.java
+/home/vieira/Documents/Dev/projects/cache-server-java/src/main/java/com/vieira/cache_server/domain/CacheObject.java
+/home/vieira/Documents/Dev/projects/cache-server-java/src/main/java/com/vieira/cache_server/models/CacheReader.java
+/home/vieira/Documents/Dev/projects/cache-server-java/src/main/java/com/vieira/cache_server/models/CacheWriter.java
+/home/vieira/Documents/Dev/projects/cache-server-java/src/main/java/com/vieira/cache_server/routers/MainRouter.java
